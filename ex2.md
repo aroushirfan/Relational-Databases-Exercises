@@ -3,4 +3,5 @@
 ### Question 1
 select*from goal;
 
-![screenshot](ex2_q1.jpg)
+![ex2_q1.png](..%2F..%2FPictures%2FScreenshots%2FEx2%2Fex2_q1.png)
+
